@@ -19,3 +19,5 @@
 <portlet:defineObjects />
 
 This is the <b>"Demo"</b> portlet.
+
+This is test
